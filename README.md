@@ -6,3 +6,5 @@ Esse software, a partir da biblioteca pandas, usou como dados os valores de uma 
 Apesar de ser um programa muito simples, o desenvolvimento dele foi fundamental para que eu pudesse relacionar a Programação com a Física. Percebi que a partir de um programa como esse, eu poderia fazer a análise da posição de um corpo em movimento retilíneo uniforme em função do tempo, por exemplo, obtendo uma estimativa para a velocidade do corpo a partir da regressão linear dos pontos, que seriam dados experimentais.
 
 Assim, comecei a dar mais atenção a essa ideia de como a programação pode ser usada para análise da natureza.
+
+Link do vídeo onde comento sobre o código e a plicabilidade do código: https://www.youtube.com/watch?v=XSDUjSJysXk
