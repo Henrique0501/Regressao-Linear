@@ -1,4 +1,4 @@
-# Reta
+# Ajuste_Linear
 Desenvolvi o programa Reta com objetivo de aprender a usar algumas das bibliotecas da linguagem Python, como o matplotlib, numpy, pandas e o scipy, além de aprender a analisar dados a partir da programação em Python.
 
 Esse software, a partir da biblioteca pandas, usou como dados os valores de uma tabela do Excel. A partir da biblioteca matplotlib, ele plotou o gráfico de dispersão dos pontos da tabela. E, a partir da biblioteca scipy, calculou e representou graficamente a regressão linear que melhor se ajustava aos pontos.
